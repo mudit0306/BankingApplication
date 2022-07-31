@@ -1,4 +1,4 @@
-# BankingApplication
+# BookingApplication
 Tech Stack :
 Java
 Rest Assured
