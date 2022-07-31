@@ -1,0 +1,11 @@
+{
+    "firstname" : "Jason",
+    "lastname" : "Filter Cruise",
+    "totalprice" : 222,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2022-07-29",
+        "checkout" : "2022-07-31"
+    },
+    "additionalneeds" : "Breakfast,Lunch,Dinner"
+}

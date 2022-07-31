@@ -1,0 +1,31 @@
+
+€
+java:S1104 "cMake partiallyUpdatedPayload a static final constant or non-public and provide accessors if needed.(§µü¾8§ˆÄ£0
+Z
+java:S1444 "=Make this "public static partiallyUpdatedPayload" field final(§µü¾8§ˆÄ£0
+m
+java:S1192"JDefine a constant instead of duplicating this literal "bookingid" 3 times.(ß¬˜“şÿÿÿÿ8å‡ŒÌ¤0
+l
+java:S3973§"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8çšÓÊ£0
+U
+java:S1874£"7Remove this use of "ROUND_HALF_DOWN"; it is deprecated.(ƒ°Ë¤8ÃæÊ£0
+p
+java:S1192^"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(ÒŠñÁûÿÿÿÿ8¨·ÈÅ¤0
+i
+java:S1192^"GDefine a constant instead of duplicating this literal "Basic " 3 times.(ÒŠñÁûÿÿÿÿ8¨·ÈÅ¤0
+\
+java:S4719™"9Replace charset name argument with StandardCharsets.UTF_8(Éû¦ùÿÿÿÿ8¢Ñö§£0
+U
+java:S2386»"2Make member "partiallyUpdatedPayload" "protected".(‰±¬Œøÿÿÿÿ8çšÓÊ£0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ8àó™ª£0
+J
+java:S2201£",The return value of "setScale" must be used.(ƒ°Ë¤8ÃæÊ£0
+‰
+java:S4144*"lUpdate this method so that its implementation is not identical to "getMyBookingByFilterResponse" on line 34.(çšß8›ÚÎÌ¤0
+
+java:S4144."lUpdate this method so that its implementation is not identical to "setMyBookingByFilterResponse" on line 38.(î„º¸úÿÿÿÿ8¼´ÎÌ¤0
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(œ’·8ÌÙÌ¤0
+N
+java:S1874£"0Remove this use of "setScale"; it is deprecated.(ƒ°Ë¤8ÃæÊ£0
+Š
+java:S1130Ê"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(º¢Ø€8¦ˆÚÌ¤0
